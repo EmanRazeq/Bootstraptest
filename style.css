@@ -1,0 +1,34 @@
+h1 {
+    background-color: blanchedalmond;
+}
+
+.c h4{
+    text-align: center;
+    font-size: 48px;
+    color: blue;
+    background-color:green;
+}
+.g h4{
+    text-align: center;
+    font-size: 48px;
+    color: blueviolet;
+    background-color: pink;
+}
+.b h4{
+    text-align: center;
+    font-size: 48px;
+    color: coral;
+    background-color: darkmagenta;
+}
+.s h4{
+    text-align: center;
+    font-size: 48px;
+    color: deeppink;
+    background-color: aquamarine;
+}
+.t h4{
+    text-align: center;
+    font-size: 48px;
+    color: brown;
+    background-color: cornflowerblue;
+}
